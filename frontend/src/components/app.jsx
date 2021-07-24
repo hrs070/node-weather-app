@@ -100,7 +100,7 @@ export default function App() {
             try {
                 setDisplayDelay(true)
 
-                const url = `http://localhost:5000/forecasts/${input}`;
+                const url = `https://secure-cliffs-70837.herokuapp.com/forecasts/${input}`;
                 const response = await fetch(url);
                 const data = await response.json();
 
