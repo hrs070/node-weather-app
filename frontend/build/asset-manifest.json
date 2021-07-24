@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/hrs070/node-weather-app/tree/main/frontend/static/js/main.fb87f1c4.chunk.js",
-    "main.js.map": "/hrs070/node-weather-app/tree/main/frontend/static/js/main.fb87f1c4.chunk.js.map",
-    "runtime-main.js": "/hrs070/node-weather-app/tree/main/frontend/static/js/runtime-main.5149d09b.js",
-    "runtime-main.js.map": "/hrs070/node-weather-app/tree/main/frontend/static/js/runtime-main.5149d09b.js.map",
-    "static/js/2.9389378b.chunk.js": "/hrs070/node-weather-app/tree/main/frontend/static/js/2.9389378b.chunk.js",
-    "static/js/2.9389378b.chunk.js.map": "/hrs070/node-weather-app/tree/main/frontend/static/js/2.9389378b.chunk.js.map",
-    "index.html": "/hrs070/node-weather-app/tree/main/frontend/index.html",
-    "static/js/2.9389378b.chunk.js.LICENSE.txt": "/hrs070/node-weather-app/tree/main/frontend/static/js/2.9389378b.chunk.js.LICENSE.txt"
+    "main.js": "/hrs070/node-weather-app/frontend/build/static/js/main.fb87f1c4.chunk.js",
+    "main.js.map": "/hrs070/node-weather-app/frontend/build/static/js/main.fb87f1c4.chunk.js.map",
+    "runtime-main.js": "/hrs070/node-weather-app/frontend/build/static/js/runtime-main.e39cf117.js",
+    "runtime-main.js.map": "/hrs070/node-weather-app/frontend/build/static/js/runtime-main.e39cf117.js.map",
+    "static/js/2.9389378b.chunk.js": "/hrs070/node-weather-app/frontend/build/static/js/2.9389378b.chunk.js",
+    "static/js/2.9389378b.chunk.js.map": "/hrs070/node-weather-app/frontend/build/static/js/2.9389378b.chunk.js.map",
+    "index.html": "/hrs070/node-weather-app/frontend/build/index.html",
+    "static/js/2.9389378b.chunk.js.LICENSE.txt": "/hrs070/node-weather-app/frontend/build/static/js/2.9389378b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5149d09b.js",
+    "static/js/runtime-main.e39cf117.js",
     "static/js/2.9389378b.chunk.js",
     "static/js/main.fb87f1c4.chunk.js"
   ]
