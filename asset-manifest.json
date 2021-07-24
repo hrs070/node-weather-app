@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "/hrs070/node-weather-app/tree/main/frontend/static/static/js/main.fb87f1c4.chunk.js",
-    "main.js.map": "/hrs070/node-weather-app/tree/main/frontend/static/static/js/main.fb87f1c4.chunk.js.map",
-    "runtime-main.js": "/hrs070/node-weather-app/tree/main/frontend/static/static/js/runtime-main.66a415c0.js",
-    "runtime-main.js.map": "/hrs070/node-weather-app/tree/main/frontend/static/static/js/runtime-main.66a415c0.js.map",
-    "static/js/2.9389378b.chunk.js": "/hrs070/node-weather-app/tree/main/frontend/static/static/js/2.9389378b.chunk.js",
-    "static/js/2.9389378b.chunk.js.map": "/hrs070/node-weather-app/tree/main/frontend/static/static/js/2.9389378b.chunk.js.map",
-    "index.html": "/hrs070/node-weather-app/tree/main/frontend/static/index.html",
-    "static/js/2.9389378b.chunk.js.LICENSE.txt": "/hrs070/node-weather-app/tree/main/frontend/static/static/js/2.9389378b.chunk.js.LICENSE.txt"
+    "main.js": "/hrs070/node-weather-app/tree/main/frontend/build/static/js/main.fb87f1c4.chunk.js",
+    "main.js.map": "/hrs070/node-weather-app/tree/main/frontend/build/static/js/main.fb87f1c4.chunk.js.map",
+    "runtime-main.js": "/hrs070/node-weather-app/tree/main/frontend/build/static/js/runtime-main.97bede30.js",
+    "runtime-main.js.map": "/hrs070/node-weather-app/tree/main/frontend/build/static/js/runtime-main.97bede30.js.map",
+    "static/js/2.9389378b.chunk.js": "/hrs070/node-weather-app/tree/main/frontend/build/static/js/2.9389378b.chunk.js",
+    "static/js/2.9389378b.chunk.js.map": "/hrs070/node-weather-app/tree/main/frontend/build/static/js/2.9389378b.chunk.js.map",
+    "index.html": "/hrs070/node-weather-app/tree/main/frontend/build/index.html",
+    "static/js/2.9389378b.chunk.js.LICENSE.txt": "/hrs070/node-weather-app/tree/main/frontend/build/static/js/2.9389378b.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.66a415c0.js",
+    "static/js/runtime-main.97bede30.js",
     "static/js/2.9389378b.chunk.js",
     "static/js/main.fb87f1c4.chunk.js"
   ]
