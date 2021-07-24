@@ -3,7 +3,10 @@ const path = require("path");
 const router = require('./router');
 
 const app = express();
-const PORT = 5000;
+let port = process.env.PORT;
+if (port == null || port == "") {
+    port = 8000;
+}
 
 app.use(express.urlencoded());
 app.use(express.json());
@@ -17,6 +20,6 @@ app.get("/", (req, res) => {
     console.log("received request");
 })
 
-app.listen(PORT, () => {
-    console.log(`Server listening at PORT: ${PORT}`);
+app.listen(port, () => {
+    console.log(`Server listening at PORT: ${port}`);
 })
