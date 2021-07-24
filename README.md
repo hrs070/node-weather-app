@@ -2,10 +2,10 @@
 
 ## [Live Demo](https://hrs070.github.io/node-weather-app/)
 
-### The backend is hosted on Heroku and the frontend is hosted at github pages.
+## The Back-end is hosted on Heroku and the Front-end is hosted an Github Pages (using gh-pages npm package).
 
-The frontend folder contains the react front-end.
-The backend folder containes the node backend.
+The frontend folder contains the React front-end.
+The backend folder contains the Node back-end.
 
 To use this app, clone the repositiory and 
 1) inside the frontend folder use `npm start` to start the react dev server.
